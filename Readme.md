@@ -9,7 +9,7 @@ brew install tfenv
 Make a note of what terraform version your're currently using:
 
 ```
-terraform -v #2.2.2
+terraform -v #1.0.11
 ```
 
 ```
